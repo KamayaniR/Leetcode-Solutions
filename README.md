@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
