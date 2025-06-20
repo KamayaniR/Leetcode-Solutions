@@ -32,6 +32,11 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
