@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
