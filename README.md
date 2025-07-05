@@ -90,7 +90,6 @@
 ## Depth-First Search
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
