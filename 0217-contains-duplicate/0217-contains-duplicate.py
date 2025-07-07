@@ -1,11 +1,6 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        appear = Counter(nums)
-        count = appear.values()
-        for i in count:
-            if i >= 2:
-                return True
-        return False
-
+        distinct_num = set(nums)
+        return len(nums) != len(distinct_num)
         
         
