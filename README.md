@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Tree
