@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
