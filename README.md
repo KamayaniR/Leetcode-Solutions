@@ -61,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Stack
@@ -150,6 +151,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
