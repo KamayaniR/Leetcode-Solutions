@@ -1,20 +1,19 @@
-class Solution(object):
-    def maxArea(self, height):
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        l = 0
+        r = len(height) - 1
         max_volume = 0
-        right = len(height) - 1
-        left = 0
 
-        while left < right:
-            width = right - left
-            height1 = min(height[left], height[right])
-            volume = width * height1
+        while l < r:
+            w = r - l
+            h = min(height[r], height[l])
 
-            max_volume = max(max_volume,volume)
-            
-            if height[left] < height[right]:
-                left+=1
+            volume = w*h
+            max_volume = max(max_volume, volume)
+
+            if height[l] < height[r]:
+                l+=1
             else:
-                right -=1
-
+                r-=1
         return max_volume
         
