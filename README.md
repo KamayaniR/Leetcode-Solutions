@@ -16,6 +16,7 @@
 | [0134-gas-station](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Sorting
