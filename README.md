@@ -76,12 +76,14 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
