@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -83,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
