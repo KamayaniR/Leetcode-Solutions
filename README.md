@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -32,6 +33,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -64,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -179,6 +182,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -188,4 +192,20 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
