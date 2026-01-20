@@ -25,6 +25,7 @@
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Design
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
