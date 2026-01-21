@@ -29,6 +29,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,11 +170,13 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2352-equal-row-and-column-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Design
