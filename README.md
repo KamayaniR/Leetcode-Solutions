@@ -24,6 +24,7 @@
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [1207-unique-number-of-occurrences](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
