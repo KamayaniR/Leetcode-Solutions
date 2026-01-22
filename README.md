@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -42,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |
