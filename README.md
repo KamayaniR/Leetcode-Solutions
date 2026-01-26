@@ -140,6 +140,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Tree
 |  |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
