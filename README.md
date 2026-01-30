@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -253,4 +254,12 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
