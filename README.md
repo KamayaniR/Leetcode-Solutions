@@ -107,6 +107,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -119,6 +120,7 @@
 | [0020-valid-parentheses](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -139,6 +141,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
