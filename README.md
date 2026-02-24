@@ -68,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -92,6 +93,7 @@
 | [0018-4sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -134,6 +136,7 @@
 | [0141-linked-list-cycle](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Database
@@ -290,4 +294,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
