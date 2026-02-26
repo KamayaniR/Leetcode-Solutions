@@ -258,6 +258,7 @@
 | [0177-nth-highest-salary](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1258-article-views-i) |
