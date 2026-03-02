@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
