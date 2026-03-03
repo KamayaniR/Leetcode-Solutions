@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -190,6 +191,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -330,6 +333,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0112-path-sum) |
