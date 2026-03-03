@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0046-permutations) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0278-first-bad-version) |
