@@ -23,6 +23,7 @@
 | [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0164-maximum-gap) |
@@ -337,6 +338,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Breadth-First Search
 |  |
 | ------- |
