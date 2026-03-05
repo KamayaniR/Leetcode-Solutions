@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -140,6 +141,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
