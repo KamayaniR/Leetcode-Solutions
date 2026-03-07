@@ -29,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -208,6 +209,7 @@
 | [0112-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -354,6 +357,7 @@
 | [0112-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Merge Sort
 |  |
@@ -367,4 +371,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
