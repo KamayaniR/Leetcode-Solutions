@@ -29,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -175,6 +176,7 @@
 | [0053-maximum-subarray](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
