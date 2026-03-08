@@ -312,6 +312,7 @@
 | [0608-tree-node](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
