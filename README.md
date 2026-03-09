@@ -176,6 +176,7 @@
 | [0053-maximum-subarray](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -279,6 +280,7 @@
 | [0007-reverse-integer](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
 |  |
@@ -387,4 +389,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
