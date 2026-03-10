@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@
 | [0148-sort-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -190,6 +192,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -360,6 +363,7 @@
 | ------- |
 | [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Breadth-First Search
 |  |
 | ------- |
