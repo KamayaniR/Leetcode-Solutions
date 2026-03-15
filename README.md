@@ -26,6 +26,7 @@
 | [0064-minimum-path-sum](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Union-Find
 |  |
