@@ -349,6 +349,7 @@
 | [1280-students-and-examinations](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
