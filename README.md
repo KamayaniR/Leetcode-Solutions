@@ -351,6 +351,7 @@
 | [1407-top-travellers](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KamayaniR/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
